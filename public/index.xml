@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>Contacts</title>
+      <link>/contacts/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/contacts/</guid>
+      <description>I miei contatti Per info e collaborazioni scrivimi!</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/projects/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
