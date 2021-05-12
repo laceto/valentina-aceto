@@ -5,26 +5,7 @@
     <link>/</link>
     <description>Recent content on Valentina Aceto</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>blogdown</title>
-      <link>/2021/05/09/blogdown/</link>
-      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/05/09/blogdown/</guid>
-      <description>ciao sono io, amore mio</description>
-    </item>
-    
-    <item>
-      <title>i miei interessi</title>
-      <link>/2021/04/30/i-miei-interessi/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/2021/04/30/i-miei-interessi/</guid>
-      <description>Alice e mio fratello</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/about/</link>
