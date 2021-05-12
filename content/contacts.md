@@ -3,11 +3,10 @@ date: "2016-05-05T21:48:51-07:00"
 title: Contacts
 ---
 
-Ciao sono Valentina Aceto e sono un ingegnere civile ed ambientale.  
+Mail ing.valentinaaceto@gmail.com  
+PEC valentina.aceto@ingpec.eu  
 
-Ho studiato ingegneria all'UNICAL e mi occupo di progettazione ingegneristica ed acustica.  
-Vivo a Rende con mio marito ed Alice. 
+Mobile +39 3401400199  
 
-Per info e collaborazioni [scrivimi!](mailto:ing.valentinaceto@gmail.com)
-
-Questo sito è costruito con blogdown and Hugo, ed è stato pubblicato utilizzando Netlify.  
+P.IVA 03319340786  
+Sede operativa Via Quasimodo 4 – Rende 87036 (CS)  
